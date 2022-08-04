@@ -1,0 +1,196 @@
+button {
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+}
+/*------------------------------------------------------ CONTAINER HEADER START ------------------------------------------------------*/
+.container_header{
+    /* border: solid red; */
+    padding: 20px;
+}
+
+.container_header a{/*CONTAINER HEADER LINKS SPECIFICALLY*/
+    /* border: solid red; */
+    text-decoration: none;
+    color: grey;
+}
+
+.container_header .col-lg-2{/*CONTAINER HEADER PICTURE*/
+    /* border: solid ORANGE; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_header .col-lg-7{/*CONTAINER HEADER BOX OF LINKS*/
+    /* border: solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.container_header .col-lg-3{/*CONTAINER HEADER BUTTONS*/
+    /* border: solid purple; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+/* .container_header button{
+    background-color: white;
+} */
+.container_header .signin{
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.container_header .signin:hover{
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+}
+.container_header .signin:active{
+    background-color: rgba(0, 0, 60, 0.7);
+    color: white;
+    border: 1px solid white;
+}
+.container_header .tryfree{
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.container_header .tryfree:hover{
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+}
+.container_header .tryfree:active{
+    background-color: rgba(0, 0, 0, 0.25);
+    color: blue;
+    border: 1px solid blue;
+}
+
+/*------------------------------------------------------ CONTAINER HEADER END ------------------------------------------------------*/
+
+/*------------------------------------------------------ CONTAINER FOCUS START ------------------------------------------------------*/
+
+.container_focus{
+    /* border: solid red; */
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.container_focus .col-lg-7{
+    /* border: solid lime; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container_focus .chunk1{
+    /* border: solid green; */
+    font-weight: 550;
+    font-size: 80px;
+}
+.container_focus .chunk2{
+    /* border: solid purple; */
+    font-weight: 400;
+    font-size: 40px;
+}
+.container_focus .chunk3{
+    /* border: solid orange; */
+    font-weight: 550;
+    font-size: 25px;
+    color: rgb(175, 175, 175);
+}
+.container_focus .buttons{
+    /* border: solid green; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container_focus .buttons .signup{
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
+.container_focus .signup:hover{
+    background-color: rgba(0, 0, 255, 0.750);
+    color: white;
+    border: 1px solid blue;
+}
+.container_focus .signup:active{
+    background-color: rgba(0, 0, 100, 0.75);
+    color: white;
+    border: 1px solid blue;
+}
+.container_focus .buttons .chat{
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
+.container_focus .chat:hover{
+    background-color: rgba(0, 0, 0, 0.150);
+    color: blue;
+    border: 1px solid blue;
+}
+.container_focus .chat:active{
+    background-color: rgba(0, 0, 0, 0.350);
+    color: blue;
+    border: 1px solid blue;
+}
+.container_focus .chunk4{
+    /* border: solid pink; */
+    font-weight: 500;
+    font-size: 25px;
+    color: rgb(145, 145, 145);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container_focus .chunk4 a{
+    color: rgb(145, 145, 145);
+}
+
+.container_focus .col-lg-5{
+    /* border: solid purple; */
+}
+.container_focus .col-lg-5 img{
+    /* border: solid purple; */
+    width: 100%; 
+    max-height: auto;
+}
+/*------------------------------------------------------ CONTAINER FOCUS END ------------------------------------------------------*/
+
+/*------------------------------------------------------ CONTAINER WORKS START ------------------------------------------------------*/
+
+.container_works{
+    border: solid purple;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.how{
+    border: solid red;
+}
+.row 1{
+    border: solid orange;
+}
+.col-lg-6{
+    border: solid pink;
+}
