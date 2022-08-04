@@ -1,0 +1,13 @@
+.item2::before{
+    color:blue;
+    content: "●";
+    margin-right:.75rem;
+   
+}
+ul{
+    white-space: nowrap;
+}
+#btn2{
+    padding-top:15px;
+    padding-bottom: 15px;
+}
