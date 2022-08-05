@@ -1,0 +1,47 @@
+.row{
+    border: solid red;
+}
+
+.col-6{
+    border: solid black;
+}
+
+.col-4{
+    border: solid gray;
+}
+
+body{
+    
+    
+   
+    border: solid pink;
+}
+
+.container .row .col-md-7 {
+    background-image: url(/images/Group\ 15.png);
+    background-color: blue;
+    height: 100vh;
+    background-repeat: no-repeat;
+    border-bottom-right-radius: 1000px;
+}
+
+.rounded-button {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+    border-radius: 50%;
+    border: none;
+    text-decoration: none;
+   }
+
+   .button{
+    border-color: white;
+    color: white;
+   }
+   
+   
