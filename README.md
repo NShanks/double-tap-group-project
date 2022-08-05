@@ -1,4 +1,5 @@
 # double-tap-group-project
+<<<<<<< HEAD
 
 We split the project up into three sections and have plans to divide the work differently should our fourth and/or fifth assigned partner become available.
 
@@ -10,3 +11,7 @@ That was assigned to Nick.
 
 Third split was the "How It Works" Page.
 That was assigned to Dylan.
+=======
+<!--Dylan's pages-->
+# I worked on the How-it-Works page
+>>>>>>> 36bbbdd2b56980e27b7c254aec9661b6e546314f

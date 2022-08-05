@@ -11,3 +11,12 @@ ul{
     padding-top:15px;
     padding-bottom: 15px;
 }
+#Get-Started{
+    background-color: #7fff00;
+    white-space: nowrap;
+}
+
+body{
+    width:100vw;
+}
+
