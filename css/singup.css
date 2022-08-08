@@ -17,12 +17,19 @@ body{
     border: solid pink;
 } */
 
-.container .row .col-md-7 {
-    background-image: url(/images/Group\ 15.png);
-    background-color: blue;
-    height: 100vh;
+.container .row .col-md-8 {
+    /* background-image: url(/images/Group\ 10.png); */
+    /* height: 60vh;
+    width: 97vh; */
     background-repeat: no-repeat;
-    border-bottom-right-radius: 1000px;
+    position: relative;
+    overflow: auto;
+    display: flex;
+}
+.container .row .col-md-8 img{
+    height: 100%;
+    width: 100%;
+
 }
 
 .rounded-button {
@@ -43,18 +50,17 @@ body{
     border-color: white;
     color: white;
    }
-  .container .row .col-md-7 .sign{
-    color: white;
-  }
 
-  .container .row .col-md-7 .welcome{
-    color: white;
-  }
-  .container .row .col-md-7 .btn{
-    color: white;
-  }
+   .form-group img{
+    height: 10em;
+    width: 10em;
+   }
+   
+   .form-group input{
+    width: 50%;
+   }
 
-  .picline{
+   .picline{
     border: 1px solid black;
     display:flex;
     padding: 15px;
@@ -69,4 +75,3 @@ body{
     height: 2em;
     width: 2em;
 }
-   
