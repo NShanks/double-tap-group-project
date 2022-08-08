@@ -8,6 +8,8 @@ Those were assigned to Chris.
 
 The second split was the "CRM Landing" page.
 That was assigned to Nick.
+I messed up and did the "How It Works" page and just left the files in here instead of deleting them. The real landing page is called
+"newexplore.html" and the css file is "newexplore.css". The original "explore.html" and "main.css" are not intended to be part of the project.
 
 Third split was the "How It Works" Page.
 That was assigned to Dylan.
